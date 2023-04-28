@@ -1,2 +1,2 @@
 # friday
-friday day is good
+friday day is good main
